@@ -1,0 +1,14 @@
+*.class
+bin/
+.settings/
+.project
+.classpath
+
+*.log
+
+.DS_Store
+
+.idea/
+.metadata/
+
+mysql-connector*.jar
